@@ -1,4 +1,4 @@
-
+#include "main.h"
 /**
  * set_string - Entry point
  * Desc: Entry
