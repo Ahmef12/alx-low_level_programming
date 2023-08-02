@@ -1,5 +1,5 @@
 
-
+#include <stdio.h>
 /**
  * print_diagsums - Entry point
  * Desc: Entry
